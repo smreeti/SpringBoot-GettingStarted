@@ -18,14 +18,14 @@ Note :
  - SPRING SECURITY will prompt for login where the default username is user and you can check the console log for the password.    However, we can override them in application.properties.
 
 - SPRING BOOT uses 1000+ properties which can be logically divided into following groups:
-    # CORE
-    # WEB
-    # SECURITY
-    # DATA
-    # ACTUATOR
-    # INTEGRATION
-    # DEVTOOLS
-    # TESTING
+    - CORE
+    - WEB
+    - SECURITY
+    - DATA
+    - ACTUATOR
+    - INTEGRATION
+    - DEVTOOLS
+    - TESTING
     
  
  
